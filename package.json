@@ -19,6 +19,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "auth0-js": "^9.1.0",
     "aws-amplify": "^0.1.36",
     "aws-amplify-react-native": "^0.1.24",
     "expo": "^25.0.0",
